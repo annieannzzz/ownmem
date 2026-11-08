@@ -1,0 +1,7 @@
+# 仓库内统一 LF，Windows 专用脚本保持 CRLF
+* text=auto
+*.png binary
+*.db binary
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.vbs text eol=crlf

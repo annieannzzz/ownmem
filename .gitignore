@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+# 本地数据（记忆库绝不该进版本库）
+*.db
+*.db-wal
+*.db-shm
+.ownmem/
+*.log
+# 本机备份与预览产物
+.bak-*/
+.preview/
+# 只对这台机器有意义的运维文档（含本机绝对路径）
+docs/HANDOVER.md
+docs/REVIEW-*.md
