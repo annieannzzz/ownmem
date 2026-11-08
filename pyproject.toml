@@ -20,7 +20,7 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/ownmem/ownmem"
+Homepage = "https://github.com/annieannzzz/ownmem"
 
 [project.scripts]
 ownmem = "ownmem.cli:main"
